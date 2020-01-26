@@ -4,6 +4,8 @@ Welcome to my Kitchen
 
 Poundo
 Pasta
+Beans 
+Pizza
 
 Adding additional text to this file
 
